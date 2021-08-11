@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ui_week5</string>
+    <string name="rick_grimes">Rick Grimes</string>
+    <string name="madrid_spain">Madrid, spain</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="more">More</string>
+    <string name="timeline">Timeline</string>
+    <string name="about">About</string>
+    <string name="photos">Photos</string>
+    <string name="write_something_to_rick">Write Something to Rick...</string>
+    <string name="photo">Photo</string>
+    <string name="_780">780</string>
+    <string name="see_more">See More</string>
+    <string name="_1258">1258</string>
+    <string name="friends">Friends</string>
+    <string name="daryl_dixon_s">Daryl Dixon\'s</string>
+    <string name="maggie_greene">Maggie Greene</string>
+    <string name="negan_s_lucille">Negan\'s Lucille</string>
+    <string name="emily_kinney">Emily Kinney</string>
+
+</resources>
